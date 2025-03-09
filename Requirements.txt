@@ -1,5 +1,4 @@
-Library yang digunakan:
-1. numpy: Digunakan untuk perhitungan numerik.
-2. pandas: Digunakan untuk membaca, membersihkan, dan menganalisis data dalam bentuk tabel (DataFrame).
-3. matplotlib.pyplot: Membantu membuat visualisasi dasar
-4. seaborn: Membantu membuat dashboard.
+streamlit
+pandas
+matplotlib
+seaborn
