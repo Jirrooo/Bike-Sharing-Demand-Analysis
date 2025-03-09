@@ -2,11 +2,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
+import os
 
 sns.set(style='dark')
 
 # Load dataset
-df = pd.read_csv(r"c:\Users\kenji\Documents\Kuliah\DBS\Programs\Analisis Data\dashboard\day.csv")
+df = pd.read_csv(os.path.join(os.path.dirname(__file__), "day_df.csv"))
 
 # Konversi kolom tanggal
 df['dteday'] = pd.to_datetime(df['dteday'])
