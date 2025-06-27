@@ -83,17 +83,26 @@ Proyek ini mengikuti tahapan analisis data standar:
 
 ## Hasil dan Wawasan
 ### Pengaruh Cuaca terhadap Jumlah Penyewaan Sepeda
+![Plot Pengaruh Cuaca Terhadap Jumlah Penyewaan Sepeda](https://github.com/Jirrooo/Bike-Sharing-Demand-Analysis/blob/main/assets/plot%20pengaruh%20cuaca%20terhadap%20penyewaan%20sepeda.png)
 * Rata-rata jumlah penyewaan sepeda tertinggi terjadi saat cuaca cerah (weathersit = 1) yaitu sekitar 4.876 sepeda/hari.
 * Saat kondisi cuaca berawan (weathersit = 2), rata-rata penyewaan turun menjadi sekitar 4.035 sepeda/hari.
 * Ketika cuaca memburuk menjadi hujan ringan atau salju ringan (weathersit = 3), penyewaan turun drastis menjadi sekitar 1.803 sepeda/hari.
 * Tidak ada pelanggan yang menyewa sepeda saat cuaca hujan deras atau badai (weathersit = 4).
+  
 **Wawasan:** Cuaca memiliki pengaruh signifikan terhadap permintaan penyewaan sepeda. Kondisi cuaca yang baik sangat mendukung peningkatan jumlah penyewaan.
 
 ### Perbandingan Pengguna Registered dan Casual di Hari Kerja
+![Plot Perbandingan Pengguna Registered dan Casual di Hari Kerja](https://github.com/Jirrooo/Bike-Sharing-Demand-Analysis/blob/main/assets/plot%20perbandingan%20penyewaan%20sepeda%20antara%20registered%20dan%20casual%20user.png)
 * Pengguna *registered* memiliki rata-rata penyewaan yang lebih tinggi di hari kerja (sekitar 3.978 sepeda/hari) dibandingkan pengguna *casual* (sekitar 606 sepeda/hari).
-* Di sisi lain, pengguna *casual* lebih dominan di akhir pekan/hari libur (rata-rata 1.371 sepeda/hari) dibandingkan pengguna *registered* (rata-rata 2.959 sepeda/hari).
+* Pengguna *casual* meningkat di akhir pekan/hari libur (rata-rata 1.371 sepeda/hari).
+  
 **Wawasan:** Pengguna terdaftar cenderung menggunakan sepeda untuk kebutuhan rutin seperti perjalanan ke kantor atau sekolah, sementara pengguna kasual lebih sering menggunakannya untuk rekreasi di akhir pekan.
 
 ### Distribusi Penyewaan Sepeda Berdasarkan Musim
+![Plot Distribusi Penyewaan Sepeda Berdasarkan Musim](https://github.com/Jirrooo/Bike-Sharing-Demand-Analysis/blob/main/assets/plot%20distribusi%20penyewaan%20sepeda%20berdasarkan%20musim.png
+)
 * Jumlah hari dengan penyewaan sepeda cukup merata di setiap musim (Musim Semi, Musim Panas, Musim Gugur, Musim Dingin), menunjukkan bahwa musim tidak terlalu memengaruhi kebiasaan pengguna dalam menyewa sepeda secara drastis.
+  
 **Wawasan:** Strategi promosi dan ketersediaan sepeda dapat dipertahankan secara fleksibel sepanjang tahun tanpa perlu terlalu berfokus pada musim tertentu.
+
+---
