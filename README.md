@@ -1,4 +1,4 @@
-# Projek Analisis Data Dicoding
+# Proyek Analisis Data: Analisis Pola Penyewaan Sepeda (Bike Sharing Demand Analysis)
 
 ## Pendahuluan
 Proyek ini bertujuan untuk menganalisis dataset penyewaan sepeda untuk memahami pola penggunaan dan faktor-faktor yang memengaruhinya. Analisis ini memberikan wawasan tentang bagaimana cuaca dan tipe pengguna (terdaftar atau kasual) memengaruhi jumlah penyewaan sepeda harian.
